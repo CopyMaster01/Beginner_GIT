@@ -2,10 +2,10 @@ import sys
 
 
 def cat():
-    print('meow!')
+	print('meow!')
 
 def dog():
-	print('woof!')
+	print('Woof!')
 
 
 def default():
