@@ -1,10 +1,10 @@
 import sys
 
 def cat():
-    print('meow')
+    print('Meow')
 
 def default():
-    print('hello')
+    print('Hello')
 
 def main():
     if sys.argv[1] == 'cat':
